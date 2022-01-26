@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Surfing and Football
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me ...
+- 📫 How to reach me : fabio.simoesds@gmail.com or https://www.linkedin.com/in/fabio-dos-santos-ab394950/
 
 <!---
 fabiosimoesds/fabiosimoesds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
