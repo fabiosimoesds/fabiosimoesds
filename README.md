@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fabiosimoesds
 - 👀 I’m interested in Coding, Surfing and Football
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning Python, HTML5 and CSS3
+- 💞️ I’m looking to collaborate on Python, HTML5 and CSS3 projects
 - 📫 How to reach me : fabio.simoesds@gmail.com or https://www.linkedin.com/in/fabio-dos-santos-ab394950/
 
 <!---
