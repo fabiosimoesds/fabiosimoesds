@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Surfing and Football
 - 🌱 I’m currently learning Python, HTML5 and CSS3
 - 💞️ I’m looking to collaborate on Python, HTML5 and CSS3 projects
-- 📫 How to reach me : fabio.simoesds@gmail.com or <a class="footer-link" href="https://www.linkedin.com/in/fabio-dos-santos-ab394950/">LinkedIn</a>
+- 📫 How to reach me : <a class="btn" href="mailto:fabio.simoesds@gmail.com">E-mail Me</a> or <a class="footer-link" href="https://www.linkedin.com/in/fabio-dos-santos-ab394950/">LinkedIn Page</a>
 
 <!---
 fabiosimoesds/fabiosimoesds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
