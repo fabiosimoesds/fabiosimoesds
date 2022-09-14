@@ -1,7 +1,8 @@
 - <h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A passionate Back-end | Full Stack Developer</h3>
 
-<img align="center" alt="coding" width="400" src="https://dribbble.com/shots/16762086-Programmer-character-animation.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiosimoesds&label=Profile%20views&color=0e75b6&style=flat" alt="fabiosimoesds" /> </p>
 
