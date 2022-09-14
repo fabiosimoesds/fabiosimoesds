@@ -1,7 +1,7 @@
 - <h1 align="center">Hi 👋, I'm Fabio</h1>
 <h3 align="center">A passionate Back-end | Full Stack Developer</h3>
 
-<img align="center" alt="coding" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiosimoesds&label=Profile%20views&color=0e75b6&style=flat" alt="fabiosimoesds" /> </p>
 
@@ -28,16 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fabiosimoesds&show_icons=true&locale=en" alt="fabiosimoesds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiosimoesds&" alt="fabiosimoesds" /></p>
-
-- 
-- 
-- 
-- 
-- 👋 Hi, I’m @fabiosimoesds
-- 👀 I’m interested in Coding, Surfing and Football
-- 🌱 Continously learning Ruby on Rails, Python, SQL, HTML5 and CSS, JavaScript
-- 💞️ I’m looking to collaborate on Ruby, HTML5 and CSS3 projects
-- 📫 How to reach me : <a class="btn" href="mailto:fabio.simoesds@gmail.com">E-mail me</a> or <a class="footer-link" href="https://www.linkedin.com/in/fabio-dos-santos-ab394950/">LinkedIn Page</a>
 
 <!---
 fabiosimoesds/fabiosimoesds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
