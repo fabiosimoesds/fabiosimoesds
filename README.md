@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [Get Together](get-together.me)
 
-- 🌱 I’m continously learning **Python**
-
 - 👯 I’m looking to collaborate on [Gear-up](gear-up-app.herokuapp.com)
 
 - 💬 Ask me about **Ruby on Rails**
