@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Watch List](https://rails-fabio-watch-list.herokuapp.com/)
 
-- 👯 I’m looking to collaborate on Any Insteresting Projects
+- 👯 I’m collaborating on [Crowdfrica](https://www.crowdfrica.org/)
 
 - 💬 Ask me about **Ruby on Rails**
 
