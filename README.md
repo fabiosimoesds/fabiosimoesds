@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiosimoesds&label=Profile%20views&color=0e75b6&style=flat" alt="fabiosimoesds" /> </p>
 
-- 🔭 I’m currently working on [Watch List](https://rails-fabio-watch-list.herokuapp.com/)
+- 🔭 I’m currently working form [mmtm](https://mmtm.io/))
 
-- 👯 I’m collaborating on [Crowdfrica](https://www.crowdfrica.org/)
-
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **Ruby on Rails**, **HTML**, **CSS(SASS)**, **Stimulus** and **Turbo**
 
 - 📫 How to reach me <a class="btn" href="mailto:fabio.simoesds@gmail.com">E-mail</a>
 
