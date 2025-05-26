@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiosimoesds&label=Profile%20views&color=0e75b6&style=flat" alt="fabiosimoesds" /> </p>
 
-- 🔭 I’m currently working for [mmtm](https://mmtm.io/))
+- 🔭 I’m currently working for [mmtm](https://mmtm.io/)
 
 - 💬 Ask me about **Ruby on Rails**, **HTML**, **CSS(SASS)**, **Stimulus** and **Turbo/Hotwire**
 
